@@ -1,0 +1,10 @@
+set ts=8 sw=4 sts=4
+au BufRead,BufNewFile *.cpp,*.c,*.h,*.hpp,*.vbs,*.rul set ts=4 sw=4 sts=0
+au BufRead,BufNewFile *.xml,*.xsl,*.htm,*.html set ts=8 sw=2 sts=2 expandtab
+au BufRead,BufNewFile *.java,*.as,*.mxml set expandtab
+set number
+set shellslash
+set listchars=eol:$,tab:>\ 
+set list
+set hidden
+set wildmode=list:longest

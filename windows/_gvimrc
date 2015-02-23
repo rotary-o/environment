@@ -1,0 +1,5 @@
+set columns=100
+set lines=37
+colorscheme darkblue
+set guifont=BDF_UM+:h9:cSHIFTJIS
+set vb t_vb=
